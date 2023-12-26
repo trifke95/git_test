@@ -1,1 +1,2 @@
 Hello, TheOdinProject!
+Let's commit without -m flag!
